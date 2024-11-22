@@ -5,3 +5,4 @@ import com.example.microwave.entity.HeatingMode;
 
 public interface HeatingModeRepository extends JpaRepository<HeatingMode, Long> {
 }
+

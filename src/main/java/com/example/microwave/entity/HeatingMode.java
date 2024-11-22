@@ -20,3 +20,4 @@ public class HeatingMode {
     private Integer duration;
 
 }
+

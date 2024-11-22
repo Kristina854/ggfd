@@ -10,3 +10,4 @@ public class MicrowaveApplication {
 		SpringApplication.run(MicrowaveApplication.class, args);
 	}
 }
+

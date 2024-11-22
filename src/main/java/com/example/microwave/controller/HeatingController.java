@@ -27,3 +27,4 @@ public class HeatingController {
         return ResponseEntity.ok(modes);
     }
 }
+

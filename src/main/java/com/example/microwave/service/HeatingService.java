@@ -27,3 +27,4 @@ public class HeatingService {
         return heatingModeRepository.findAll();
     }
 }
+
